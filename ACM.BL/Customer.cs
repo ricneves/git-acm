@@ -11,7 +11,6 @@ namespace ACM.BL
     {
         public Customer() : this(0)
         {
-
         }
         public Customer(int customerId)
         {
@@ -55,6 +54,7 @@ namespace ACM.BL
             }
         }
 
+        // forma normal
         //public string Log()
         //{
         //    var logString = CustomerId + ": " + FullName + " " + "Email: " + EmailAddress + " " + "Status: " + EntityState.ToString();
