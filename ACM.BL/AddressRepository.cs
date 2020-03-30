@@ -38,10 +38,10 @@ namespace ACM.BL
                 AddressType = 1,
                 StreetLine1 = "Bag End",
                 StreetLine2 = "StreetLine 2",
-                City="Porto",
+                City = "Porto",
                 State = "Shire",
-                Country ="Portugal",
-                PostalCode="144"
+                Country = "Portugal",
+                PostalCode = "144"
             };
             addressList.Add(address);
 
@@ -53,7 +53,7 @@ namespace ACM.BL
                 City = "Porto",
                 State = "Shire",
                 Country = "Portugal",
-                PostalCode="146"
+                PostalCode = "146"
             };
             addressList.Add(address);
 
